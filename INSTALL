@@ -1,0 +1,28 @@
+
+convert2utf8 install manual for MAC OS X and Linux
+
+1. download the latest tar.gz file from project site.
+   https://code.google.com/p/convert2utf8/
+
+2. extract file.
+   tar -zxvf convert2utf8.tgz
+
+3. run install script
+   cd trunk
+   sudo ./install.sh
+
+5. finish
+
+convert2utf8 安裝步驟，適用於 MAC OS X and Linux
+
+1. 到專案網址下載最新版本的 convert2utf8
+   https://code.google.com/p/convert2utf8/
+
+2. 解壓縮檔案。
+   tar -zxvf convert2utf8.tgz
+
+3. 執行安裝程式。
+   cd trunk
+   sudo ./install.sh
+
+5. 完成，請參考 README 使用。
