@@ -64,7 +64,7 @@ if not os.path.isfile (target_file):
 
 config = ConfigParser.ConfigParser()
 
-resource_file = '/usr/bin/convert2utf8.res';
+resource_file = '/usr/local/bin/convert2utf8.res';
 if not os.path.isfile (resource_file): 
     exit(MSG_RESOURCE_FILE_NOT_FOUND)
 
