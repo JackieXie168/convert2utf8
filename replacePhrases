@@ -660,6 +660,7 @@ replacePattern 面條 麵條
 replacePattern 冷面湯 冷麵湯
 replacePattern 吃過面 吃過麵
 replacePattern 吃面面 吃麵麵
+replacePattern 面包 麵包
 replacePattern 面包店 麵包店
 replacePattern 面包行 麵包行
 replacePattern 烤面包 烤麵包
@@ -2200,7 +2201,11 @@ replacePattern 白哲 白皙
 replacePattern 曆史 歷史
 replacePattern 曆時 歷時
 replacePattern 曆程 歷程
+replacePattern 曆險 歷險
+replacePattern 資曆 資歷
+replacePattern 學曆 學歷
 replacePattern 身曆 身歷
+replacePattern 遊曆 遊歷
 replacePattern 瀟酒 瀟灑
 replacePattern 拒決 拒絕
 replacePattern 側隱之心 惻隱之心
