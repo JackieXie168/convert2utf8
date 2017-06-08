@@ -844,6 +844,7 @@ replacePattern 后發而先至 後發而先至
 replacePattern 鉆研 鑽研
 replacePattern 鉆石 鑽石
 replacePattern 鬥然 陡然
+replacePattern 星係 星系
 replacePattern 星鬥 星斗
 replacePattern 北鬥 北斗
 replacePattern 紫微鬥數 紫微斗數
@@ -2881,3 +2882,4 @@ replacePattern 薛定諤 薛丁格
 replacePattern 幾率 機率
 replacePattern 宏觀 巨觀
 replacePattern 枚舉 列舉
+replacePattern 黑客 駭客
