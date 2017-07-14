@@ -498,8 +498,12 @@ replacePattern 係好 繫好
 replacePattern 係情 繫情
 replacePattern 係腰 繫腰
 replacePattern 係住 繫住
+replacePattern 係到 繫到
+replacePattern 係鏈 繫鏈
+replacePattern 係了一個 繫了一個
 replacePattern 聯係 聯繫
 replacePattern 大事所係 大事所繫
+replacePattern 鏈條係的 鏈條繫的
 replacePattern 上遊 上游
 replacePattern 中遊 中游
 replacePattern 下遊 下游
@@ -596,6 +600,7 @@ replacePattern 弘曆 弘歷
 replacePattern 經曆 經歷
 replacePattern 曆經 歷經
 replacePattern 親曆 親歷
+replacePattern 病曆 病歷
 replacePattern 親匿 親暱
 replacePattern 張曆友 張歷友
 replacePattern 火並 火拼
@@ -638,10 +643,15 @@ replacePattern 胡茬 鬍渣
 replacePattern 髭須 髭鬚
 replacePattern 剃胡須 剃鬍鬚
 replacePattern 毫發無 毫髮無
+replacePattern 群係 群系
+replacePattern 族係 族系
+replacePattern 該係 該系
+replacePattern 全書係 全書系
 replacePattern 銀河係 銀河系
 replacePattern 師範係 師範系
 replacePattern 數學係 數學系
 replacePattern 太陽係 太陽系
+replacePattern 宇航係 宇航系
 replacePattern 哲學係 哲學系
 replacePattern 化學係 化學系
 replacePattern 中文係 中文系
@@ -655,6 +665,7 @@ replacePattern 天文係 天文系
 replacePattern 政治係 政治系
 replacePattern 法律係 法律系
 replacePattern 文學係 文學系
+replacePattern 大學的係 大學的系
 replacePattern 王世傑 王世杰
 replacePattern 肉面 肉麵
 replacePattern 吃面 吃麵
@@ -858,6 +869,7 @@ replacePattern 鬥然 陡然
 replacePattern 星係 星系
 replacePattern 星鬥 星斗
 replacePattern 北鬥 北斗
+replacePattern 泰鬥 泰斗
 replacePattern 紫微鬥數 紫微斗數
 replacePattern 鬥轉星移 斗轉星移
 replacePattern 汙言 污言
@@ -1183,6 +1195,9 @@ replacePattern 喂養 餵養
 replacePattern 喂奶 餵奶
 replacePattern 喂毒 餵毒
 replacePattern 喂狼 餵狼
+replacePattern 被喂 被餵
+replacePattern 喂那 餵那
+replacePattern 喂不飽 餵不飽
 replacePattern 幻結 勾結
 replacePattern 舍身 捨身
 replacePattern 難舍 難捨
@@ -1593,6 +1608,8 @@ replacePattern 游山玩水 遊山玩水
 replacePattern 關系 關係
 replacePattern 係統 系統
 replacePattern 係列 系列
+replacePattern 係獄 系獄
+replacePattern 係綜 系綜
 replacePattern ～ 一
 replacePattern 日歷 日曆
 replacePattern 手制 手製
@@ -2865,6 +2882,7 @@ replacePattern 髮起 發起
 replacePattern 髮出 發出
 replacePattern 髮布 發布
 replacePattern 髮放 發放
+replacePattern 髮射 發射
 replacePattern 髮家 發家
 replacePattern 髮表 發表
 replacePattern 髮話 發話
@@ -2989,6 +3007,7 @@ replacePattern 佯謬 悖論
 replacePattern 倫德勒係 倫德勒系
 replacePattern 巴耳末係 巴耳末系
 replacePattern 體係 體系
+replacePattern 坐標係 坐標系
 replacePattern 參考係 參考系
 replacePattern 慣性係 慣性系
 replacePattern 亞裏士多德 亞里斯多德
@@ -3000,6 +3019,7 @@ replacePattern 居裏 居里
 replacePattern 門捷列夫 門得列夫
 replacePattern 玻爾 波耳
 replacePattern 玻姆 波姆
+replacePattern 玻恩 波恩
 replacePattern 薛定諤 薛丁格
 replacePattern 泡利 包立
 replacePattern 奧本海默 歐本海默
@@ -3008,6 +3028,7 @@ replacePattern 馮•諾伊曼 馮紐曼
 replacePattern 老布裏淵 老布里淵
 replacePattern 小布裏淵 小布里淵
 replacePattern 阿斯科裏的塞科 阿斯科里的塞科
+replacePattern 西西裏 西西里
 replacePattern 尤裏 尤里
 replacePattern 克裏 克里
 replacePattern 莫裏 莫里
@@ -3031,12 +3052,17 @@ replacePattern 卡迪裏 卡迪里
 replacePattern 普裏高 普里高
 replacePattern 蒂裏希 蒂里希
 replacePattern 布裏松 布里松
+replacePattern 馬德裏 馬德里
+replacePattern 美裏塔司 米利都
+replacePattern 卡裏斯多 卡里斯多
 replacePattern 阿德裏安 阿德里安
 replacePattern 阿基裏斯 阿基里斯
 replacePattern 海因裏希 海因里希
 replacePattern 格里高裏 格里高利
+replacePattern 雷喬德符裏 雷喬德弗里
 replacePattern 特裏亞斯特 特里亞斯特
 replacePattern 拉斯塔法裏 拉斯塔法里
+replacePattern 佛羅裏達州 佛羅里達州
 replacePattern 希拉裏 希拉蕊
 replacePattern 裏查德 理查德
 replacePattern 彭羅斯 潘洛斯
@@ -3057,3 +3083,5 @@ replacePattern 激光 雷射
 replacePattern 蟲孔 蟲洞
 replacePattern 量子運送 量子傳輸
 replacePattern 可視電話 視訊電話
+replacePattern 圍道 環路
+replacePattern 複圍道 複變函數環路
