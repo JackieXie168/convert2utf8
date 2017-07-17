@@ -2938,6 +2938,7 @@ replacePattern 克隆 複製
 replacePattern 複制 複製
 replacePattern 打開 開啟
 replacePattern 窗口 視窗
+replacePattern 菜單 選單
 replacePattern 服務器 伺服器
 replacePattern 用户 使用者
 replacePattern 登陸 登入
@@ -2962,6 +2963,9 @@ replacePattern 分區 分割
 replacePattern 柱面 磁柱
 replacePattern 內核 核心
 replacePattern 缺省 預設
+replacePattern 打印 列印
+replacePattern 項目 專案
+replacePattern 程式碼塊 程式碼區塊
 replacePattern 字符串 字串
 replacePattern 字符 字元
 replacePattern 操作符 運算子
@@ -2973,6 +2977,7 @@ replacePattern 支持 支援
 replacePattern 信息 訊息
 replacePattern 賬號 帳號
 replacePattern 混賬 混帳
+replacePattern 示例 範例
 replacePattern 面向對象 物件導向
 replacePattern 模塊 模組
 replacePattern 源程式碼 原始碼
@@ -2980,6 +2985,7 @@ replacePattern 代碼 程式碼
 replacePattern 正則表達式 正規表示法
 replacePattern 語係 語系
 replacePattern 程序 程式
+replacePattern 調試 偵錯
 replacePattern 函數庫 函式庫
 replacePattern 變量 變數
 replacePattern 隊列 佇列
@@ -2997,6 +3003,7 @@ replacePattern 訪問數據 存取資料
 replacePattern 人工智能 人工智慧
 replacePattern 加密訊道 加密訊息通道
 replacePattern 筆記本電腦 筆記型電腦
+replacePattern 伯克利 柏克萊
 replacePattern 國家航空航天局 國家航空暨太空總署
 replacePattern 美國航空航天局 美國國家航空暨太空總署
 replacePattern “ 「
@@ -3029,6 +3036,7 @@ replacePattern 老布裏淵 老布里淵
 replacePattern 小布裏淵 小布里淵
 replacePattern 阿斯科裏的塞科 阿斯科里的塞科
 replacePattern 西西裏 西西里
+replacePattern 加裏 加里
 replacePattern 尤裏 尤里
 replacePattern 克裏 克里
 replacePattern 莫裏 莫里
