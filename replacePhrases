@@ -480,6 +480,8 @@ replacePattern 觞 觴
 replacePattern 粘 黏
 replacePattern 珰 璫
 replacePattern 岖 嶇
+replacePattern 纭 紜
+replacePattern 侄 姪
 replacePattern 幹將 干將
 replacePattern 幹瀆 干瀆
 replacePattern 遊頑 遊玩
@@ -725,6 +727,15 @@ replacePattern 生力面 生力麵
 replacePattern 嶽丈 岳丈
 replacePattern 嶽老 岳老
 replacePattern 嶽飛 岳飛
+replacePattern 嶽不群 岳不群
+replacePattern 嶽師兄 岳師兄
+replacePattern 嶽師伯 岳師伯
+replacePattern 嶽師叔 岳師叔
+replacePattern 嶽夫人 岳夫人
+replacePattern 嶽師母 岳師母
+replacePattern 嶽靈珊 岳靈珊
+replacePattern 嶽師妹 岳師妹
+replacePattern 連嶽⋯⋯嶽⋯⋯嘿嘿 連岳⋯⋯岳⋯⋯嘿嘿
 replacePattern 天後 天后
 replacePattern 母後 母后
 replacePattern 太後 太后
@@ -908,6 +919,7 @@ replacePattern 知識分子 知識份子
 replacePattern 讵料 詎料
 replacePattern 觊觎 覬覦
 replacePattern 采訪 採訪
+replacePattern 采花大盜 採花大盜
 replacePattern 報道 報導
 replacePattern 十余拓 十餘招
 replacePattern 十余裏 十餘里
@@ -2280,6 +2292,7 @@ replacePattern 極黴 極霉
 replacePattern 倒媚 倒楣
 replacePattern 倒黴 倒楣
 replacePattern 倒大黴 倒大楣
+replacePattern 倒的黴實在太多 倒的楣實在太多
 replacePattern 大黴 大楣
 replacePattern 倒足了黴 倒足了楣
 replacePattern 倒上了黴 倒上了楣
