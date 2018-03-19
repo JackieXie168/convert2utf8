@@ -2999,6 +2999,7 @@ replacePattern 代碼 程式碼
 replacePattern 正則表達式 正規表示法
 replacePattern 語係 語系
 replacePattern 程序 程式
+replacePattern 線程 執行緒
 replacePattern 調試 偵錯
 replacePattern 函數庫 函式庫
 replacePattern 變量 變數
@@ -3107,3 +3108,8 @@ replacePattern 量子運送 量子傳輸
 replacePattern 可視電話 視訊電話
 replacePattern 圍道 環路
 replacePattern 複圍道 複變函數環路
+replacePattern 余項 餘項
+replacePattern 余弦 餘弦
+replacePattern 余元公式 餘元公式
+replacePattern 傅裏葉 傅立葉
+replacePattern 方嚮導數 方向導數
