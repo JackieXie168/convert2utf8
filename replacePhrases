@@ -503,6 +503,7 @@ replacePattern 係住 繫住
 replacePattern 係到 繫到
 replacePattern 係鏈 繫鏈
 replacePattern 係了一個 繫了一個
+replacePattern 係外行星 系外行星
 replacePattern 聯係 聯繫
 replacePattern 大事所係 大事所繫
 replacePattern 鏈條係的 鏈條繫的
@@ -525,6 +526,7 @@ replacePattern 才高六鬥 才高六斗
 replacePattern 薛仁責 薛仁貴
 replacePattern 程或素 程靈素
 replacePattern 找茬 找碴
+replacePattern 修複 修復
 replacePattern 錢複 錢復
 replacePattern 康複 康復
 replacePattern 興複 興復
@@ -538,6 +540,7 @@ replacePattern 複原 復原
 replacePattern 複有 復有
 replacePattern 複起 復起
 replacePattern 複下 復下
+replacePattern 複旦大學 復旦大學
 replacePattern 又複自傷 又復自傷
 replacePattern 反來複去 反來復去
 replacePattern 無以複加 無以復加
@@ -650,6 +653,7 @@ replacePattern 族係 族系
 replacePattern 該係 該系
 replacePattern 全書係 全書系
 replacePattern 銀河係 銀河系
+replacePattern 係中心 系中心
 replacePattern 師範係 師範系
 replacePattern 數學係 數學系
 replacePattern 太陽係 太陽系
@@ -938,6 +942,7 @@ replacePattern 高興之余 高興之餘
 replacePattern 簡明有余 簡明有餘
 replacePattern 連續十余記 連續十餘記
 replacePattern 無回旋余地 無迴旋餘地
+replacePattern 剩余 剩餘
 replacePattern 空余 空餘
 replacePattern 年余 年餘
 replacePattern 月余 月餘
@@ -1021,6 +1026,7 @@ replacePattern 火里 火裡
 replacePattern 裏頭 裡頭
 replacePattern 征調 徵調
 replacePattern 征兆 徵兆
+replacePattern 征稅 徵稅
 replacePattern 沖智 神智
 replacePattern 沖口 衝口
 replacePattern 沖日 衝日
@@ -1217,6 +1223,7 @@ replacePattern 難舍 難捨
 replacePattern 舍離 捨離
 replacePattern 舍了 捨了
 replacePattern 舍棄 捨棄
+replacePattern 舍卒保車  捨卒保車
 replacePattern 舍亡國之君外 捨亡國之君外
 replacePattern 嬌妻美妄 嬌妻美妾
 replacePattern 筋鬥 觔斗
@@ -1240,6 +1247,7 @@ replacePattern 制藥 製藥
 replacePattern 制片人 製片人
 replacePattern 監制 監製
 replacePattern 仿制 仿製
+replacePattern 繪制 繪製
 replacePattern 陰側側 陰惻惻
 replacePattern 一味攻擊 一昧攻擊
 replacePattern 大刺刺 大剌剌
@@ -1577,6 +1585,7 @@ replacePattern 贊嘆 讚歎
 replacePattern 贊歎 讚歎
 replacePattern 贊譽 讚譽
 replacePattern 贊誇 讚誇
+replacePattern 誇克 夸克
 replacePattern 誇贊 誇讚
 replacePattern 贊許 讚許
 replacePattern 稱贊 稱讚
@@ -1934,6 +1943,7 @@ replacePattern 泄氣 洩氣
 replacePattern 泄憤 洩憤
 replacePattern 外泄 外洩
 replacePattern 發泄 發洩
+replacePattern 平衡 平衡運動
 replacePattern 扇風點火 搧風點火
 replacePattern 時衡大局 旴衡大局
 replacePattern 并排 並排
@@ -2940,6 +2950,7 @@ replacePattern 通統 通通
 replacePattern 光禿喬 光禿禿
 replacePattern 無比之對 無比之時
 replacePattern 楊幺 楊么
+replacePattern 數碼 數位
 replacePattern 脈沖 脈衝
 replacePattern 芯片 晶片
 replacePattern 個人計算機 個人電腦
@@ -3000,6 +3011,7 @@ replacePattern 正則表達式 正規表示法
 replacePattern 語係 語系
 replacePattern 程序 程式
 replacePattern 線程 執行緒
+replacePattern 死鎖 死結
 replacePattern 調試 偵錯
 replacePattern 函數庫 函式庫
 replacePattern 變量 變數
@@ -3033,6 +3045,7 @@ replacePattern 坐標係 坐標系
 replacePattern 參考係 參考系
 replacePattern 慣性係 慣性系
 replacePattern 亞裏士多德 亞里斯多德
+replacePattern 亞裏斯多德  亞里斯多德
 replacePattern 開普勒 克卜勒
 replacePattern 本茨 賓士
 replacePattern 以太 乙太
@@ -3113,3 +3126,8 @@ replacePattern 余弦 餘弦
 replacePattern 余元公式 餘元公式
 replacePattern 傅裏葉 傅立葉
 replacePattern 方嚮導數 方向導數
+replacePattern 台球 撞球
+replacePattern 中微子 微中子
+replacePattern 亞原子 次原子
+replacePattern 哈勃 哈伯
+replacePattern 分形 碎形
