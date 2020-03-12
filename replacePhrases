@@ -3019,6 +3019,7 @@ replacePattern 死鎖 死結
 replacePattern 調試 偵錯
 replacePattern 函數庫 函式庫
 replacePattern 變量 變數
+replacePattern 數組 陣列
 replacePattern 隊列 佇列
 replacePattern 進程 行程
 replacePattern 協議 協定
