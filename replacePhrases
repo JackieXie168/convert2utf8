@@ -685,6 +685,7 @@ replacePattern 吃面 吃麵
 replacePattern 碗面 碗麵
 replacePattern 素面 素麵
 replacePattern 面條 麵條
+replacePattern 麵試 面試
 replacePattern 冷面湯 冷麵湯
 replacePattern 吃過面 吃過麵
 replacePattern 吃面面 吃麵麵
@@ -2956,6 +2957,8 @@ replacePattern 楊幺 楊么
 replacePattern 數碼 數位
 replacePattern 脈沖 脈衝
 replacePattern 芯片 晶片
+replacePattern 2的冪 2的冪次方
+replacePattern 位操作 位元運算
 replacePattern 個人計算機 個人電腦
 replacePattern 操作系統 作業系統
 replacePattern 文件系統 檔案系統
@@ -3025,7 +3028,10 @@ replacePattern 進程 行程
 replacePattern 協議 協定
 replacePattern 設置 設定
 replacePattern 擴展 擴充
+replacePattern 查找 搜尋
+replacePattern 二叉 二元
 replacePattern 二叉樹 二元樹
+replacePattern 散列表 雜湊表
 replacePattern 數據庫 資料庫
 replacePattern 幀指針 框架指標
 replacePattern 指針 指標
@@ -3033,6 +3039,10 @@ replacePattern 幀指標 框架指標
 replacePattern 數據 資料
 replacePattern 堆棧幀 堆疊框
 replacePattern 堆棧 堆疊
+replacePattern 棧追蹤 堆疊回溯
+replacePattern 棧和堆 堆疊和堆積
+replacePattern 棧 堆疊
+replacePattern 歸並排序 合併排序
 replacePattern 堆疊幀 堆疊框
 replacePattern 寄存器 暫存器
 replacePattern 彙編語言 組合語言
