@@ -1332,6 +1332,7 @@ replacePattern 無所是事 無所事事
 replacePattern 尋人啟示 尋人啟事
 replacePattern 坐想其成 坐享其成
 replacePattern 並發症 併發症
+replacePattern 意大利 義大利
 replacePattern 出奇不意 出其不意
 replacePattern 經驗老道 經驗老到
 replacePattern 克苦耐勞 刻苦耐勞
@@ -1890,6 +1891,7 @@ replacePattern 好男不跟女斗 好男不跟女鬥
 replacePattern 分鍾 分鐘
 replacePattern 秒鍾 秒鐘
 replacePattern 時鍾 時鐘
+replacePattern 鍾表 鐘錶
 replacePattern 警鍾 警鐘
 replacePattern 龍鐘 龍鍾
 replacePattern 鐘情 鍾情
@@ -2946,6 +2948,7 @@ replacePattern 傷愈 傷癒
 replacePattern 痊愈 痊癒
 replacePattern 慚傀 慚愧
 replacePattern 畢蔔 畢卜
+replacePattern 朋克 龐克
 replacePattern 熱氣裊裊 熱氣嬝嬝
 replacePattern 閃通背 扇通背
 replacePattern 叽叽格格 嘰嘰格格
@@ -2971,11 +2974,14 @@ replacePattern 打開 開啟
 replacePattern 窗口 視窗
 replacePattern 菜單 選單
 replacePattern 服務器 伺服器
+replacePattern 服務端 伺服端
 replacePattern 用户 使用者
 replacePattern 登陸 登入
 replacePattern 友好 友善
 replacePattern 接口 介面
 replacePattern 網絡 網路
+replacePattern 網路幀 網路訊框
+replacePattern 網路庫 網路函式庫
 replacePattern 聯機 連線
 replacePattern 帶寬 頻寬
 replacePattern 主板 主機板
@@ -3041,6 +3047,7 @@ replacePattern 堆棧幀 堆疊框
 replacePattern 堆棧 堆疊
 replacePattern 棧追蹤 堆疊回溯
 replacePattern 棧和堆 堆疊和堆積
+replacePattern 棧幀 堆疊框
 replacePattern 棧 堆疊
 replacePattern 歸並排序 合併排序
 replacePattern 堆疊幀 堆疊框
@@ -3060,6 +3067,7 @@ replacePattern 國家航空航天局 國家航空暨太空總署
 replacePattern 美國航空航天局 美國國家航空暨太空總署
 replacePattern “ 「
 replacePattern ” 」
+replacePattern 恺撒 凱撒
 replacePattern 斯坦福 史丹佛
 replacePattern 福布斯 富比士
 replacePattern 佯謬 悖論
