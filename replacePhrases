@@ -554,6 +554,7 @@ replacePattern 聊泄 聊洩
 replacePattern 泄機 洩機
 replacePattern 泄漏 洩露
 replacePattern 強奸 強姦
+replacePattern 日志 日誌
 replacePattern 雜志 雜誌
 replacePattern 宮裏 宮裡
 replacePattern 家裏 家裡
@@ -2957,6 +2958,7 @@ replacePattern 通統 通通
 replacePattern 光禿喬 光禿禿
 replacePattern 無比之對 無比之時
 replacePattern 楊幺 楊么
+replacePattern 外彙 外匯
 replacePattern 數碼 數位
 replacePattern 脈沖 脈衝
 replacePattern 芯片 晶片
@@ -2967,6 +2969,7 @@ replacePattern 操作系統 作業系統
 replacePattern 文件系統 檔案系統
 replacePattern 文件名 檔名
 replacePattern 擴充名 副檔名
+replacePattern 默認 預設
 replacePattern 文件 檔案
 replacePattern 克隆 複製
 replacePattern 複制 複製
@@ -3003,6 +3006,8 @@ replacePattern 缺省 預設
 replacePattern 打印 列印
 replacePattern 項目 專案
 replacePattern 程式碼塊 程式碼區塊
+replacePattern 字段 欄位
+replacePattern 字節 位元組
 replacePattern 字符串 字串
 replacePattern 字符 字元
 replacePattern 操作符 運算子
@@ -3027,6 +3032,8 @@ replacePattern 線程 執行緒
 replacePattern 死鎖 死結
 replacePattern 調試 偵錯
 replacePattern 函數庫 函式庫
+replacePattern 分布式 分散式
+replacePattern 實時 即時
 replacePattern 變量 變數
 replacePattern 數組 陣列
 replacePattern 隊列 佇列
