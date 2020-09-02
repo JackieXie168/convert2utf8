@@ -931,6 +931,7 @@ replacePattern 報道 報導
 replacePattern 十余拓 十餘招
 replacePattern 十余裏 十餘里
 replacePattern 十幾裏 十幾里
+replacePattern 余生 餘生
 replacePattern 余人 餘人
 replacePattern 余狼 餘狼
 replacePattern 余者 餘者
